@@ -1,0 +1,5 @@
+CREATE TABLE #Participantes (
+    Id INT Primary Key auto increment,
+    Nm_Participante VARCHAR(70),
+    Nm_Amigo_Secreto VARCHAR(70),
+)
